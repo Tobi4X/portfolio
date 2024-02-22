@@ -1,0 +1,68 @@
+
+.items{
+    margin: 40px;
+    padding-bottom: 0px;
+}
+
+.text {
+    padding: 40px;
+    background-color: #ffc451;
+    border-radius: 35px;
+    font-size: large;
+    box-shadow: 7px 7px 10px -5px rgba(0,0,0,0.78);
+    font-family: "Retropix";
+}
+
+.text .tittle {
+    align-content: center;
+}
+
+.more {
+    margin-top: 40px;
+}
+
+.more a{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 600;
+    color: #ffc451;
+    
+}
+.image{
+    width: 30%;
+    height: 30%;
+}
+
+@media screen and (max-width: 768px) {
+    .image{
+        width: 0px;
+        height: 0px;
+    }
+    .pad{
+        padding-top: 10%;
+    }
+    
+}
+
+@media screen and (max-width: 992px) {
+    .image{
+        width: 0px;
+        height: 0px;
+    }
+    .pad{
+        padding-top: 10%;
+    }
+    
+}
+
+.pad--top{
+    margin-top: 5%;
+}
+
+.green{
+    color: rgb(36, 168, 36);
+}
+
+.red{
+    color: rgb(179, 9, 9);
+}
