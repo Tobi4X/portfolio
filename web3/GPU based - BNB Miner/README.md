@@ -36,24 +36,8 @@ The smart contract includes the following features and parameters:
 - **Owner and Administration**:
   - The contract includes functions for ownership transfer and administration.
 
-## Installation
-[Provide instructions on how to deploy the smart contract to the BSC network.]
-
-## Usage
-[Explain how to interact with the smart contract, including buying miners, earning BNB, and managing referrals.]
-
 ## Technologies Used
+- Next
+- React
 - Solidity
 - Binance Smart Chain (BSC)
-
-## Contributing
-[Include guidelines for contributing to the development of the smart contract or associated components.]
-
-## License
-[Specify the license under which your smart contract is distributed.]
-
-## Acknowledgements
-[Optional: Acknowledge any individuals or resources that have contributed to the project.]
-
-## Contact
-[Provide your contact information for questions or feedback related to the smart contract.]
