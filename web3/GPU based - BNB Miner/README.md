@@ -1,4 +1,4 @@
-# BNB Miner Purchase Smart Contract
+# GPU Based BNB Miner
 
 ![Project Preview](fotopreview.png)
 
