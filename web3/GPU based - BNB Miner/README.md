@@ -1,6 +1,6 @@
 # BNB Miner Purchase Smart Contract
 
-![Project Preview](foto preview.png)
+![Project Preview](fotopreview.png)
 
 ## Description
 This project implements a smart contract on the Binance Smart Chain (BSC) where users can purchase miners. The number of miners owned by a user determines the amount of BNB they can earn.
