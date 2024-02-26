@@ -19,4 +19,6 @@ This landing page serves as a hub for the upcoming NFT game project. It provides
 ## Live Preview
 You can view the live preview of the NFT Game Presale Landing Page [here]([https://example.com](https://tobias-jensen--portfolio.000webhostapp.com)https://tobias-jensen--portfolio.000webhostapp.com).
 
+
+
 ![Preview photo](previewphoto.png)
