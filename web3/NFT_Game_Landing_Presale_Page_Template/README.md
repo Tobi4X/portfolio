@@ -17,6 +17,6 @@ This landing page serves as a hub for the upcoming NFT game project. It provides
 - Web3.js: Integrating wallet connectivity and smart contract interactions for NFT purchases.
 
 ## Live Preview
-You can view the live preview of the NFT Game Presale Landing Page [here]([https://example.com](https://tobias-jensen--portfolio.000webhostapp.com/#kits)https://tobias-jensen--portfolio.000webhostapp.com/).
+You can view the live preview of the NFT Game Presale Landing Page [here]([https://example.com](https://tobias-jensen--portfolio.000webhostapp.com)https://tobias-jensen--portfolio.000webhostapp.com).
 
 ![Preview photo](previewphoto.png)
