@@ -1,7 +1,5 @@
 # NFT Game Presale Landing Page
 
-![Preview photo](previewphoto.png)
-
 Welcome to the NFT Game Presale Landing Page project! This project is designed to showcase information about an upcoming NFT game project and allow users to connect their wallets and participate in the presale by purchasing NFTs of different rarities.
 
 ## About the Project
@@ -17,3 +15,8 @@ This landing page serves as a hub for the upcoming NFT game project. It provides
 - React/Next: Frontend development for the landing page layout and design.
 - JavaScript: Implementing interactive features such as wallet connection and NFT purchase options.
 - Web3.js: Integrating wallet connectivity and smart contract interactions for NFT purchases.
+
+## Live Preview
+You can view the live preview of the NFT Game Presale Landing Page [here](https://example.com).
+
+![Preview photo](previewphoto.png)
